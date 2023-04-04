@@ -17,7 +17,9 @@ CONFIG_FILE = ROOT / 'config' / 'config.json'
 # Below URL is taken from the secenarios github
 #SCENARIOS_URL = "https://raw.githubusercontent.com/visionify/visionai/main/scenarios.json"
 #SCENARIOS_URL = "https://github.com/arunpune/protektor/blob/main/scenarios/scenarios.json"
-SCENARIOS_URL = "https://github.com/arunpune/protektor/blob/main/visionai/scenarios/scenarios.json"
+#SCENARIOS_URL = "https://github.com/arunpune/protektor/blob/main/visionai/scenarios/scenarios.json"
+SCENARIOS_URL = "https://raw.githubusercontent.com/arunpune/protektor/main/visionai/scenarios/scenarios.json"
+
 
 SCENARIOS_OVERRIDE = ROOT / 'config' / 'scenarios-override.json'
 
